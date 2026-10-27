@@ -35,3 +35,42 @@ For example, the binary number 1011 represents 11 in decimal:
 
 Older Nokia phones had limited storage compared with modern smartphones. They mainly stored contacts, messages and simple games, while today's phones can store thousands of photos, videos and applications.
 
+### 3º POINT:  Algorithms and Computational Complexity
+
+Algorithms are instructions that tell a computer how to complete a task. Older Nokia phones used simple algorithms for games like Snake, such as moving the snake and checking when it hits something. Modern smartphones use more advanced algorithms for things like photography, navigation and artificial intelligence.
+
+If the amount of work is proportional to the square of 100 items, the calculation is (100^2=10,000). This shows why choosing an efficient algorithm is important.
+
+### 4º POINT: Geometry and Touchscreens
+
+Older Nokia phones used physical buttons, but the original iPhone introduced a multi-touch screen in 2007 (Apple, 2007). This made it possible to interact directly with items on the screen.
+
+### 5º POINT: Optimisation and Battery Life
+
+Optimisation means finding a good solution while working within certain limits. Smartphone designers need to balance performance with battery life, temperature and device size.
+
+A simple mathematical model is:
+
+(\max(P-\lambda E))
+
+Here, (P) represents performance, (E) represents energy consumption and (\lambda) represents how important saving energy is in the model. This is an example of how optimisation can be represented mathematically, rather than the exact formula used by Apple.
+
+The aim is to make phones work well without using too much battery power.
+
+### CONCLUSION:
+
+Overall, the development from Nokia phones to modern iPhones shows how mathematics is used in everyday technology. Exponential growth helps explain improvements in computing hardware, binary numbers are used for digital storage, and algorithms allow phones to perform more complicated tasks. Geometry makes touchscreen interaction possible, while optimisation helps balance performance and battery life. These examples show that mathematics has helped turn mobile phones from basic communication devices into powerful smartphones.
+
+#### SOURCES:
+
+Apple (2007). Apple Reinvents the Phone with iPhone: https://www.apple.com/uk/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/
+
+Intel. Understanding Moore's Law: https://newsroom.intel.com/tech101/understanding-moores-law
+
+National Institute of Standards and Technology (NIST). Bit and Byte Definitions: https://csrc.nist.gov/glossary/term/bit and https://csrc.nist.gov/glossary/term/byte
+
+Apple Support. About Face ID Advanced Technology: https://support.apple.com/en-gb/102381
+
+Apple Machine Learning Research. An On-device Deep Neural Network for Face Detection: https://machinelearning.apple.com/research/face-detection
+
+
