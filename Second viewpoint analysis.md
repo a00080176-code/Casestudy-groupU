@@ -27,3 +27,26 @@ Marketing also played an important role in the competition between Nokia and App
 Apple's strategy helped create a strong brand identity. Customers were not only buying a phone; they were also buying into Apple's wider range of products and services. This could encourage customer loyalty and make people more likely to purchase another Apple device in the future.
 
 ### 4º POINT: Revenue and Business Growth:
+
+The smartphone industry also changed how companies earned money. Traditional mobile phone businesses mainly depended on selling devices. Smartphones created further opportunities through applications, digital services and online platforms.
+
+Apple's business model allowed it to connect the iPhone with services such as the App Store, creating additional ways to generate revenue beyond selling hardware.
+
+### CONCLUSION:
+
+Overall, the evolution from Nokia phones to the iPhone shows how competition, innovation, marketing and business strategy influence success. Nokia was highly successful, but changes in the smartphone market created new challenges. Apple took advantage of these changes by combining technology, design, software and services into one connected experience.
+
+#### SOURCES:
+
+1. Apple (2007)  https://www.apple.com/uk/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/ 
+
+2. INSEAD (n.d.) https://www.insead.edu/faculty-research/publications/case-studies/nokia-inside-story-rise-and-fall-a-technology-giant
+
+3. INSEAD (n.d.) https://knowledge.insead.edu/strategy/strategic-decisions-caused-nokias-failure
+
+4. Vuori, T.O. and Huy, Q.N. (2016) https://doi.org/10.1177/0001839215606951.
+
+5. World Intellectual Property Organization (WIPO) (n.d.) https://www.wipo.int/edocs/pubdocs/en/wipo_pub_econstat_wp_41.pdf 
+
+6. Apple Inc. (2025)  https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm 
+
