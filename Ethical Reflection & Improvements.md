@@ -3,9 +3,103 @@
 
 #Introduction 
 The Evolution of mobile phones from Nokia to modern smartphones such as Apples's iphone has brought many positive and negative changes to businesses and society. 
-The development of the phones in our pockets happen in a pace, keeping up to speed on their history can be tricky. Many of us can't begin to imagine life without our smartphones.
-Smartphones have made communication easier and created new business opportunities. However, they have also introduced ethical concerns such as privacy , well being, electronic waste and digital 
-inequality. These issues raise questions about how technology companies should balance innovation and profit with their responsibilities towards scociety. 
+
+The development of the phones in our pockets happen in a pace, keeping up to speed on their history can be tricky. 
+
+Many of us can't begin to imagine life without our smartphones.
+
+Smartphones have made communication easier and created new business opportunities.
+
+However, they have also introduced ethical concerns such as privacy , well being, electronic waste and digital 
+inequality.
+
+These issues raise questions about how technology companies should balance innovation and profit with their responsibilities towards scociety. 
+
+It's important to think about both the good and bad sides of these changes and consider how companies can make smartphone technology more responsible and sustainable.
 
 
 
+Positive Impacts 
+
+
+
+Smartphones have opened up many new opportunities for businesses. 
+
+Now, companies can sell products online, advertise with mobile apps, and connect with customers more easily.
+
+For example, small businesses can use platforms like Instagram, TikTok, and online shopping sites to promote their products and reach customers in other countries.
+
+This was much harder when people mostly used traditional mobile phones.
+
+Smartphones have also created jobs in fields like app development, software engineering, digital marketing, and cybersecurity. Competition between companies like Nokia, Apple, and Samsung has encouraged businesses to make better technology and add new features.
+
+
+
+
+
+Smartphones make it much easier for people to keep in touch. With messaging apps, video calls, and social media, people can talk to family and friends even if they live in other countries.
+
+Another big benefit is easy access to information and education. Students can use their phones to look up topics, watch educational videos, find learning materials, and reach out to their teachers.
+
+Smartphones also help with daily tasks like checking directions, managing money with banking apps, and finding healthcare information.
+
+Overall, smartphones make daily tasks faster and easier. 
+
+They also give people access to services that used to be harder to get.
+
+
+Privacy and Personal Information
+
+Modern smartphones gather personal details like your location, browsing history, and online activity. 
+
+Companies use this information to improve their services and show you personalised ads, but this can lead to privacy concerns.
+
+Companies need to keep user information safe and clearly explain how they use it. Apple (n.d.) points out how important it is to protect user privacy.
+
+Environmental Impact and Electronic Waste
+
+Smartphones add to electronic waste because people often get new phones even when their old ones still work. Making phones also uses up energy and natural resources, which can hurt the environment.
+
+According to the World Health Organization (2024), around 62 million tonnes of electronic waste were produced worldwide in 2022.
+
+Companies should support recycling, repairs, and making phones that last longer to help reduce harm to the environment.
+
+
+Ethical evaluation
+
+The development of mobile phones from Nokia to modern smartphones has brought both positive and negative changes.
+
+Smartphones have helped businesses grow and improved communication, education and access to services. 
+
+However, they have also created problems such as privacy concerns, electronic waste and excessive phone use.
+
+In my opinion, smartphones have had a positive impact on society overall, but companies should focus on protecting users and reducing environmental damage, not just making profits.
+
+The main challenge is making technology beneficial and accessible to everyone while reducing its negative effects.
+
+
+
+Improvements 
+
+Smartphone companies should improve privacy by protecting personal information and giving users more control over their data.
+
+Phones should also last longer, be easier to repair and have better recycling options to reduce electronic waste (European Commission, 2026).
+
+Governments and businesses should make technology more affordable, while app developers should encourage healthier screen-time habits.
+
+
+
+ Conclusion
+
+The development from Nokia phones to Apple's iPhone has improved communication, business and access to information. 
+
+However, smartphones have also caused problems such as privacy concerns, electronic waste and excessive screen time.
+
+In my opinion, smartphones have benefited society, but companies should focus on protecting users, making technology affordable and reducing environmental harm.
+
+References 
+https://www.csis.org/analysis/replicating-mobile-revolution
+
+https://www.esri.ie/system/files/publications/JA202009_0.pdf
+
+https://www.bbc.com/future/article/20230403-how-cellphones-have-changed-our-brains
