@@ -1,7 +1,7 @@
 # Ethical Reflection & Improvement 
 
 
-#Introduction 
+Introduction 
 The Evolution of mobile phones from Nokia to modern smartphones such as Apples's iphone has brought many positive and negative changes to businesses and society. 
 
 The development of the phones in our pockets happen in a pace, keeping up to speed on their history can be tricky. 
@@ -47,7 +47,8 @@ Overall, smartphones make daily tasks faster and easier.
 
 They also give people access to services that used to be harder to get.
 
-
+Negative Impacts 
+ 
 Privacy and Personal Information
 
 Modern smartphones gather personal details like your location, browsing history, and online activity. 
