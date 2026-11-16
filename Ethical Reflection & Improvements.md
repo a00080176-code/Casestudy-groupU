@@ -37,15 +37,18 @@ Smartphones have also created jobs in fields like app development, software engi
 
 
 
-Smartphones make it much easier for people to keep in touch. With messaging apps, video calls, and social media, people can talk to family and friends even if they live in other countries.
+Smartphones make it much easier for people to keep in touch. With texting in  apps, video calls, and social media, people can talk to family and friends even if they live in other countries.
 
-Another big benefit is easy access to information and education. Students can use their phones to look up topics, watch educational videos, find learning materials, and reach out to their teachers.
+ Another big benefit is easy access to information and education. Smart phones have become more familiar in education also like schools started google classroom for giving them information about school events and their homework.Students can use their phones to look up topics, watch educational videos, find learning materials, and reach out to their teachers. 
 
 Smartphones also help with daily tasks like checking directions, managing money with banking apps, and finding healthcare information.
 
 Overall, smartphones make daily tasks faster and easier. 
 
 They also give people access to services that used to be harder to get.
+
+
+
 
 Negative Impacts 
  
