@@ -1,7 +1,7 @@
 # Ethical Reflection & Improvement 
 
 
-#Introduction 
+###Introduction 
 The Evolution of mobile phones from Nokia to modern smartphones such as Apples's iphone has brought many positive and negative changes to businesses and society. 
 
 The development of the phones in our pockets happen in a pace, keeping up to speed on their history can be tricky. 
@@ -19,7 +19,7 @@ It's important to think about both the good and bad sides of these changes and c
 
 
 
-Positive Impacts 
+###Positive Impacts 
 
 
 
@@ -27,19 +27,20 @@ Smartphones have opened up many new opportunities for businesses.
 
 Now, companies can sell products online, advertise with mobile apps, and connect with customers more easily.
 
-For example, small businesses can use platforms like Instagram, TikTok, and online shopping sites to promote their products and reach customers in other countries.
+For example, small businesses can use platforms like Instagram, TikTok, and online shopping sites to promote their products and reach customers in other countries , and this has become a huge platform for new entrepreneurs. 
 
 This was much harder when people mostly used traditional mobile phones.
 
 Smartphones have also created jobs in fields like app development, software engineering, digital marketing, and cybersecurity. Competition between companies like Nokia, Apple, and Samsung has encouraged businesses to make better technology and add new features.
 
+Also the development of Artificial Intelligence, Smartphones have developed from basic mobile phones used only for calls and text to a Smartphones which can use AI to make learning , entertainment , work easier 
+AI have made a huge improvement in Healthcare , Education , Communication etc .
 
 
 
+Smartphones make it much easier for people to keep in touch. With texting in  apps, video calls, and social media, people can talk to family and friends even if they live in other countries.
 
-Smartphones make it much easier for people to keep in touch. With messaging apps, video calls, and social media, people can talk to family and friends even if they live in other countries.
-
-Another big benefit is easy access to information and education. Students can use their phones to look up topics, watch educational videos, find learning materials, and reach out to their teachers.
+ Another big benefit is easy access to information and education. Smart phones have become more familiar in education also like schools started google classroom for giving them information about school events and their homework.Students can use their phones to look up topics, watch educational videos, find learning materials, and reach out to their teachers. 
 
 Smartphones also help with daily tasks like checking directions, managing money with banking apps, and finding healthcare information.
 
@@ -48,6 +49,12 @@ Overall, smartphones make daily tasks faster and easier.
 They also give people access to services that used to be harder to get.
 
 
+
+
+###Negative Impacts 
+
+
+ 
 Privacy and Personal Information
 
 Modern smartphones gather personal details like your location, browsing history, and online activity. 
@@ -65,7 +72,7 @@ According to the World Health Organization (2024), around 62 million tonnes of e
 Companies should support recycling, repairs, and making phones that last longer to help reduce harm to the environment.
 
 
-Ethical evaluation
+###Ethical evaluation
 
 The development of mobile phones from Nokia to modern smartphones has brought both positive and negative changes.
 
@@ -79,7 +86,7 @@ The main challenge is making technology beneficial and accessible to everyone wh
 
 
 
-Improvements 
+###Improvements 
 
 Smartphone companies should improve privacy by protecting personal information and giving users more control over their data.
 
@@ -89,7 +96,7 @@ Governments and businesses should make technology more affordable, while app dev
 
 
 
- Conclusion
+###Conclusion
 
 The development from Nokia phones to Apple's iPhone has improved communication, business and access to information. 
 
