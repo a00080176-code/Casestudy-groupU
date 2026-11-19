@@ -27,13 +27,14 @@ Smartphones have opened up many new opportunities for businesses.
 
 Now, companies can sell products online, advertise with mobile apps, and connect with customers more easily.
 
-For example, small businesses can use platforms like Instagram, TikTok, and online shopping sites to promote their products and reach customers in other countries.
+For example, small businesses can use platforms like Instagram, TikTok, and online shopping sites to promote their products and reach customers in other countries , and this has become a huge platform for new entrepreneurs. 
 
 This was much harder when people mostly used traditional mobile phones.
 
 Smartphones have also created jobs in fields like app development, software engineering, digital marketing, and cybersecurity. Competition between companies like Nokia, Apple, and Samsung has encouraged businesses to make better technology and add new features.
 
-
+Also the development of Artificial Intelligence, Smartphones have developed from basic mobile phones used only for calls and text to a Smartphones which can use AI to make learning , entertainment , work easier 
+AI have made a huge improvement in Healthcare , Education , Communication etc .
 
 
 
@@ -51,6 +52,8 @@ They also give people access to services that used to be harder to get.
 
 
 Negative Impacts 
+
+
  
 Privacy and Personal Information
 
