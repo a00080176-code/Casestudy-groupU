@@ -1,7 +1,7 @@
 # Ethical Reflection & Improvement 
 
 
-Introduction 
+###Introduction 
 The Evolution of mobile phones from Nokia to modern smartphones such as Apples's iphone has brought many positive and negative changes to businesses and society. 
 
 The development of the phones in our pockets happen in a pace, keeping up to speed on their history can be tricky. 
@@ -19,7 +19,7 @@ It's important to think about both the good and bad sides of these changes and c
 
 
 
-Positive Impacts 
+###Positive Impacts 
 
 
 
@@ -51,7 +51,7 @@ They also give people access to services that used to be harder to get.
 
 
 
-Negative Impacts 
+###Negative Impacts 
 
 
  
@@ -72,7 +72,7 @@ According to the World Health Organization (2024), around 62 million tonnes of e
 Companies should support recycling, repairs, and making phones that last longer to help reduce harm to the environment.
 
 
-Ethical evaluation
+###Ethical evaluation
 
 The development of mobile phones from Nokia to modern smartphones has brought both positive and negative changes.
 
@@ -86,7 +86,7 @@ The main challenge is making technology beneficial and accessible to everyone wh
 
 
 
-Improvements 
+###Improvements 
 
 Smartphone companies should improve privacy by protecting personal information and giving users more control over their data.
 
@@ -96,7 +96,7 @@ Governments and businesses should make technology more affordable, while app dev
 
 
 
- Conclusion
+###Conclusion
 
 The development from Nokia phones to Apple's iPhone has improved communication, business and access to information. 
 
