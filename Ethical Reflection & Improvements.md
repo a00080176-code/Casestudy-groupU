@@ -1,7 +1,11 @@
 # Ethical Reflection & Improvement 
 
 
+
 ###Introduction 
+
+
+
 The Evolution of the mobile phone from Nokia to present-day smart phones like Apples's iphone, there have been plenty of positive and negative changes in the World.  
 
 Staying up to date on the history of phones kept in your pocket isn't easy because the evolution of the devices occurs at a quick rate. 
@@ -72,6 +76,8 @@ The World Health Organization (2024) estimates that approximately 62 million ton
 
 ###Ethical evaluation
 
+
+
 Mobile phone technology have started from Nokia up to the modern Smartphone, has had its share of good and bad.
 
 Smartphones have helped in the expansion of businesses, enhanced access to services, education and communication also formation of Artificial Intelligence. But, they have also brought some issues like privacy concerns like users information are shared and stored,  excessive use of phones , and electronic waste.
@@ -80,7 +86,11 @@ In my view point , the impact of smartphones on the society has been positive in
 
 Main challenge is to make technology good and accessible to all while minimizing its negative .
 
+
+
 ###Improvements
+
+
 
 Smartphone manufacturers should enhance privacy through measures such as: safeguarding personal data and provide users with greater control over their personal information. Also user should be provided with information that says where all have been their data re saved. 
 
@@ -91,6 +101,9 @@ Governments and companies should promote technology that's more affordable for e
 
 
 ###Conclusion
+
+
+
 
 Nokia to the iPhone revolution has brought better communication, business and access to information. 
 
