@@ -72,37 +72,35 @@ The World Health Organization (2024) estimates that approximately 62 million ton
 
 ###Ethical evaluation
 
-The development of mobile phones from Nokia to modern smartphones has brought both positive and negative changes.
+Mobile phone technology have started from Nokia up to the modern Smartphone, has had its share of good and bad.
 
-Smartphones have helped businesses grow and improved communication, education and access to services. 
+Smartphones have helped in the expansion of businesses, enhanced access to services, education and communication also formation of Artificial Intelligence. But, they have also brought some issues like privacy concerns like users information are shared and stored,  excessive use of phones , and electronic waste.
 
-However, they have also created problems such as privacy concerns, electronic waste and excessive phone use.
+In my view point , the impact of smartphones on the society has been positive in general, but companies should take care of protecting their users information and minimize the damage to the environment more than anything else.
 
-In my opinion, smartphones have had a positive impact on society overall, but companies should focus on protecting users and reducing environmental damage, not just making profits.
+Main challenge is to make technology good and accessible to all while minimizing its negative .
 
-The main challenge is making technology beneficial and accessible to everyone while reducing its negative effects.
+###Improvements
 
+Smartphone manufacturers should enhance privacy through measures such as: safeguarding personal data and provide users with greater control over their personal information. Also user should be provided with information that says where all have been their data re saved. 
 
+Phones should also have longer lifecycles, be more reparable and offer more recycling opportunities, which would decrease the amount of e-waste. (European Commission, 2026).
 
-###Improvements 
-
-Smartphone companies should improve privacy by protecting personal information and giving users more control over their data.
-
-Phones should also last longer, be easier to repair and have better recycling options to reduce electronic waste (European Commission, 2026).
-
-Governments and businesses should make technology more affordable, while app developers should encourage healthier screen-time habits.
+Governments and companies should promote technology that's more affordable for everyone and encourage healthier screen time habits from the app makers.
 
 
 
 ###Conclusion
 
-The development from Nokia phones to Apple's iPhone has improved communication, business and access to information. 
+Nokia to the iPhone revolution has brought better communication, business and access to information. 
 
-However, smartphones have also caused problems such as privacy concerns, electronic waste and excessive screen time.
+On the other hand, smartphones have brought issues like privacy concerns, e-waste and excessive screen time.
 
-In my opinion, smartphones have benefited society, but companies should focus on protecting users, making technology affordable and reducing environmental harm.
+I think that the smartphone has had a positive impact on society, but protecting users should be the priority of companies, making technology affordable and lessening the impact on the environment should be too.
 
-References 
+
+
+###References 
 https://www.csis.org/analysis/replicating-mobile-revolution
 
 https://www.esri.ie/system/files/publications/JA202009_0.pdf
