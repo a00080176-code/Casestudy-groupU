@@ -54,21 +54,20 @@ Smartphones can also assist with everyday activities, such as navigation for exa
 
 
  
-Privacy and Personal Information
+Personal Information and Privacy.
 
-Modern smartphones gather personal details like your location, browsing history, and online activity. 
+Today smart phones collect personal information such as your location, browsing habits and internet usage and it can be stored. 
 
-Companies use this information to improve their services and show you personalised ads, but this can lead to privacy concerns.
+This data helps the company businesses enhance their offerings and deliver targeted advertising to the targeted audience . This data can be used to make the businesses services better, and to provide ads that are for you, but this can raise privacy concerns. For example Sometimes Smartphones recognize the words we are saying and it suggest ads or reels on Instagram related to it. 
 
-Companies need to keep user information safe and clearly explain how they use it. Apple (n.d.) points out how important it is to protect user privacy.
+It is important for companies to ensure that user information is kept secure  and safe. The user should clearly understood how it is used. The company should point out how important it is to protect user privacy.
 
-Environmental Impact and Electronic Waste
+ Electronic waste to environmental impact
 
-Smartphones add to electronic waste because people often get new phones even when their old ones still work. Making phones also uses up energy and natural resources, which can hurt the environment.
+Smartphones contribute to e-waste as users tend to buy new devices when they are still in working. Phones use energy to manufacture and natural resources, which can damage the environment. 
+Businesses are being encouraged to encourage the recycling, repair and re-use of phones to reduce the environmental impact.
+The World Health Organization (2024) estimates that approximately 62 million tonnes of e-waste are generated globally each year in 2022.
 
-According to the World Health Organization (2024), around 62 million tonnes of electronic waste were produced worldwide in 2022.
-
-Companies should support recycling, repairs, and making phones that last longer to help reduce harm to the environment.
 
 
 ###Ethical evaluation
