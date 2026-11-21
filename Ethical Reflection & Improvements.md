@@ -8,16 +8,14 @@
 
 The Evolution of the mobile phone from Nokia to present-day smart phones like Apples's iphone, there have been plenty of positive and negative changes in the World.  
 
-Staying up to date on the history of phones kept in your pocket isn't easy because the evolution of the devices occurs at a quick rate. 
+Staying up to date on the history of phones kept in your pocket isn't easy because the evolution of the devices occurs quickly. 
 
-Many of us can't begin to imagine life without our smartphones nowadays. One start their day looking at their phone or by Alarm . 
+Many of us can't begin to imagine life without our smartphones nowadays. One start their day looking at their phone or by Alarm setting up on their phone  . 
 
-Smartphones have made communication easier and provided new business opportunities. Smartphones have made everyday life easier . 
+Smartphones have made communication easier for the society and provided new business opportunities. Smartphones have made everyday life easier . 
 
 They have also raised ethical issues like privacy, well being, electronic waste and digital. 
-inequality.
-
-These problems bring up questions of the management of innovation and profit by technology companies and their obligations to society. 
+inequality.These problems bring up questions of the management of innovation and profit by technology companies and their obligations to society. 
 
 It is Important to remember both the positive and negative aspects of these changes and to consider what measures and Improvements can be taken by companies to render smartphone technology more responsible and sustainable.
 
@@ -33,11 +31,12 @@ Companies can now sell products online, advertise using mobile applications and 
 
 For instance, small businesses can use platforms such as Instagram, TikTok, and online shopping platforms to market their products and reach customers overseas and this has emerged as a tremendous space for new businesses.
 
-It wasn't so easy at the time when people used traditional mobile phones. The old mobile phones was only used for calls and text 
+It wasn't so easy at the time when people used traditional mobile phones. The old mobile phones was only used for calls and text, But new Smartphones are developed with touchscreen, AI , more camera quality  etc 
 
-The smartphone has also led to the creation of jobs in areas such as app development, software development, digital marketing, and cybersecurity. Intense rivalry among companies such as Nokia, Apple and Samsung has spurred businesses to develop superior technology and provide new features.
+The smartphone has also led to the more opportunity of jobs in areas such as App development, Software development, Digital marketing, and Cybersecurity. Intense rivalry among companies such as Nokia, Apple and Samsung has given businesses to develop superior technology and provide new features.
 
-Also the development of Artificial Intelligence, Smartphones have developed from basic mobile phones used only for calls and text to a Smartphones which can use AI to make learning , entertainment , work easier AI have made a huge improvement in Healthcare , Education , Communication etc .
+Also the development of Artificial Intelligence, Smartphones have developed from basic mobile phones used only for calls and text to a Smartphones which can use AI to make learning , entertainment , work easier.
+AI have made a huge improvement in Healthcare , Education , Communication etc .
 
 
 The people are much easier to keep in touch with the help of smart phones. People can communicate with their family and friends even when they are in different countries, with texting in their apps, video calls and social media.
