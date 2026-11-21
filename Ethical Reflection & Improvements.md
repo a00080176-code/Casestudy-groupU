@@ -138,8 +138,12 @@ I think that the smartphone has had a positive impact on society, but protecting
 
 
 ###References 
+
+
 https://www.csis.org/analysis/replicating-mobile-revolution
 
 https://www.esri.ie/system/files/publications/JA202009_0.pdf
 
 https://www.bbc.com/future/article/20230403-how-cellphones-have-changed-our-brains
+
+https://www.tableau.com/data-insights/ai/advantages-disadvantages
