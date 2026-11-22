@@ -34,7 +34,7 @@ Apple's business model allowed it to connect the iPhone with services such as th
 
 ### CONCLUSION:
 
-Overall, the evolution from Nokia phones to the iPhone shows how competition, innovation, marketing and business strategy influence success. Nokia was highly successful, but changes in the smartphone market created new challenges. Apple took advantage of these changes by combining technology, design, software and services into one connected experience.
+In conclusion, the evolution from Nokia phones to the iPhone shows how competition, innovation, marketing and business strategy influence success. Nokia was highly successful, but changes in the smartphone market created new challenges. Apple took advantage of these changes by combining technology, design, software and services into one connected experience.
 
 #### SOURCES:
 

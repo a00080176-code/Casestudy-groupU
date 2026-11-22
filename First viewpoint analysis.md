@@ -59,7 +59,7 @@ The aim is to make phones work well without using too much battery power.
 
 ### CONCLUSION:
 
-Overall, the development from Nokia phones to modern iPhones shows how mathematics is used in everyday technology. Exponential growth helps explain improvements in computing hardware, binary numbers are used for digital storage, and algorithms allow phones to perform more complicated tasks. Geometry makes touchscreen interaction possible, while optimisation helps balance performance and battery life. These examples show that mathematics has helped turn mobile phones from basic communication devices into powerful smartphones.
+In conclusion, the development from Nokia phones to modern iPhones shows how mathematics is used in everyday technology. Exponential growth helps explain improvements in computing hardware, binary numbers are used for digital storage, and algorithms allow phones to perform more complicated tasks. Geometry makes touchscreen interaction possible, while optimisation helps balance performance and battery life. These examples show that mathematics has helped turn mobile phones from basic communication devices into powerful smartphones.
 
 #### SOURCES:
 
