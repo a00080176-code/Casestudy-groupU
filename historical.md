@@ -37,11 +37,10 @@ of U.S. teens from ages 13 to 17 this reporte was conducvted in october 2024.
 
 
 ### Conclusion:
+In conclusion , phones nowadays has changed a lot from the traditional Nokia era we know to the one of Iphone. Nokia helped mobile phones a normal part in everyone everyday life , especially through calling and texting each other.
+Iphone took the competition further by bringing features like the internet , apps and social media into one device. From the business point of view , phones also created new opportunities both for companies and app developers.
+Looking at both society and business shows how the phone has become way more important than just a way of communication.
 
-Overall, phones have changed a lot from the Nokia era to the iPhone.
-Nokia helped make mobile phones a normal part of everyday life, especially through calling andtexting.
-The iPhone then took things further by bringing the internet, apps and social media into one device. From a business point of view, phones also created new opportunities for companies and app developers.
-Looking at both society and business shows how the phone has become much more than just a way to communicate.
 
 
 

@@ -61,10 +61,10 @@ Most teens have smart phone . Nearly half say they're online constantly accordin
 of U.S. teens from ages 13 to 17 this reporte was conducvted in october 2024.
 
 
-Overall, phones have changed a lot from the Nokia era to the iPhone.
-Nokia helped make mobile phones a normal part of everyday life, especially through calling andtexting.
-The iPhone then took things further by bringing the internet, apps and social media into one device. From a business point of view, phones also created new opportunities for companies and app developers.
-Looking at both society and business shows how the phone has become much more than just a way to communicate.
+In conclusion , phones nowadays has changed a lot from the traditional Nokia era we know to the one of Iphone. Nokia helped mobile phones a normal part in everyone everyday life , especially through calling and texting each other.
+Iphone took the competition further by bringing features like the internet , apps and social media into one device. From the business point of view , phones also created new opportunities both for companies and app developers.
+Looking at both society and business shows how the phone has become way more important than just a way of communication.
+
 
 # First viewpoint analysis
 
@@ -72,11 +72,11 @@ Looking at both society and business shows how the phone has become much more th
 
 ### Introduction of the Analysis:
 
-Looking at the change from traditional Nokia phones to modern smartphones such as the iPhone shows how much mathematics has helped technology develop. Older phones were mainly used for calls and text messages, whereas smartphones combine communication, photography, internet access and computing in one device. This change can be explained through exponential growth, binary numbers, algorithms, geometry and optimisation.
+Looking from the perspective of the change from the traditional Nokia to the moderns smartphones like the Iphone , it shows how much mathematics has helped in the development of technology. Older phones were mainly used to make phone calls and text messages but smartphones combines communication , photography , internet access and computing in one single device. This big change can be explain through for example an exponential growth , binary numbers , algorithm , geometry and optimisation , etc.
 
 #### 1º POINT: Exponential and Computing Growth
 
-Exponential growth helps explain how computing technology has improved over time. Intel explains that Moore's Law describes how the number of transistors on computer chips historically doubled about every two years (Intel, 2025).
+Exponential growth is a good example to explain how computing technology has improved has time passed. Intel explains that Moore’s law describes how the number of transistors on a computer chip in all his history has doubled in the gap of every two years ( Intel , 2025 ).
 
 
 The mathematical model is:
@@ -89,7 +89,7 @@ If the amount doubles every two years, after ten years the calculation would be:
 
 (P(10)=P_0\times2^5=32P_0)
 
-This means the amount would become 32 times larger under this model. However, this does not mean a smartphone is automatically 32 times faster than an older Nokia. It shows how quickly certain aspects of technology can improve. These developments have helped modern phones run more demanding applications and perform more complex tasks.
+This means that the amount would become 32 times larger using this model. However, this does not mean that a smartphone is actually 32 times father than a Nokia. It just proves how quickly certain aspects of technology can improve. These improvements in the development have helped modern phones go through more demanding applications and perform more difficult tasks.
 
 #### 2º POINT: Binary numbers and Data Storage
 
@@ -99,31 +99,31 @@ For example, the binary number 1011 represents 11 in decimal:
 
 (1011_(base 2)=8+2+1=11(base 10))
 
-Older Nokia phones had limited storage compared with modern smartphones. They mainly stored contacts, messages and simple games, while today's phones can store thousands of photos, videos and applications.
+Nokia phones had limited storage compared with modern smartphones. They mainly stored contacts, messages and simple games, while today's phones can store thousands of photos, videos and applications.
 
 #### 3º POINT:  Algorithms and Computational Complexity
 
-Algorithms are instructions that tell a computer how to complete a task. Older Nokia phones used simple algorithms for games like Snake, such as moving the snake and checking when it hits something. Modern smartphones use more advanced algorithms for things like photography, navigation and artificial intelligence.
+Algorithms are instructions that tell a computer how to complete a task. Nokia phones used simple algorithms for games like Snake, such as moving the snake and checking when it hits an obstacule , leading to loosing and starting againg th game. Modern smartphones use more advanced algorithms for things like photography, navigation and artificial intelligence.
 
-If the amount of work is proportional to the square of 100 items, the calculation is (100^2=10,000). This shows why choosing an efficient algorithm is important.
+If the amount of work given is proportional to the square of 100 items, the calculation would be (100^2=10,000). This shows why choosing an efficient algorithm is important.
 
 #### 4º POINT: Geometry and Touchscreens
 
-Older Nokia phones used physical buttons, but the original iPhone introduced a multi-touch screen in 2007 (Apple, 2007). This made it possible to interact directly with items on the screen.
+Nokia phones used physical buttons, but when iPhone was launched out , they introduced a multi-touch screen in 2007 (Apple, 2007). This made it possible to interact directly with items on the screen.
 
 #### 5º POINT: Optimisation and Battery Life
 
-Optimisation means finding a good solution while working within certain limits. Smartphone designers need to balance performance with battery life, temperature and device size.
+Optimisation means finding a good solution while working within certain limits. Smartphone designers need to balance the performance of the smartphone with the battery life, temperature and device size.
 
-A simple mathematical model is:
+A simple mathematical would be:
 
 (\max(P-\lambda E))
 
 Here, (P) represents performance, (E) represents energy consumption and (\lambda) represents how important saving energy is in the model. This is an example of how optimisation can be represented mathematically, rather than the exact formula used by Apple.
 
-The aim is to make phones work well without using too much battery power.
+The aim is to make phones work well without using too much battery power leading to the malfunction of the smartphone in a short period of time.
 
-In conclusion, the development from Nokia phones to modern iPhones shows how mathematics is used in everyday technology. Exponential growth helps explain improvements in computing hardware, binary numbers are used for digital storage, and algorithms allow phones to perform more complicated tasks. Geometry makes touchscreen interaction possible, while optimisation helps balance performance and battery life. These examples show that mathematics has helped turn mobile phones from basic communication devices into powerful smartphones.
+In conclusion, the development from Nokia phones to modern smarphones like iPhones shows how mathematics is used in everyday technology growth and development. Exponential growth helps explain improvements in computing hardware, binary numbers are used for digital storage, and algorithms allow phones to perform for more complicated tasks. Geometry makes touchscreen interaction possible and gives the user a better experience using the smartphone, while optimisation helps balance the performance and battery life of the smartphone. These examples show that mathematics has helped turn mobile phones from basic communication devices into smartphones with many functions.
 
 # Second viewpoint analysis
 
