@@ -32,7 +32,7 @@ through paid apps and in-app purchases.in june 2018 it was reported that 100bill
 ### Socital viewpoint of apple phones :
 About 91 percentage own a smartphonein 2026 compared to 35 percentage from 2011.
 Most teens have smart phone . Nearly half say they're online constantly according to Pew Research Center survey
-of U.S. teens from ages 13 to 17 this reporte was conducvted in october 2024.
+of U.S. teens from ages 13 to 17 this reported was conducted in october 2024.
 
 
 
