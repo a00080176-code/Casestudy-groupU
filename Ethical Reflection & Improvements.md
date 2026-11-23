@@ -4,91 +4,75 @@
 
 The Evolution of mobile phones from Nokia to modern smartphones such as Apples's iphone has brought many positive and negative changes to businesses and society. 
 
-The development of the phones in our pockets happen in a pace, keeping up to speed on their history can be tricky. 
+The Evolution of the mobile phone from Nokia to present-day smart phones like Apples's iphone, there have been plenty of positive and negative changes in the World. Staying up to date on the history of phones kept in your pocket isn't easy because the evolution of the devices occurs quickly. Many of us can't begin to imagine life without our smartphones nowadays. One start their day looking at their phone or by Alarm setting up on their phone. 
+Smartphones have made communication easier for the society and provided new business opportunities. Smartphones have made everyday life easier. 
 
-Many of us can't begin to imagine life without our smartphones.
-
-Smartphones have made communication easier and created new business opportunities.
-
-However, they have also introduced ethical concerns such as privacy , well being, electronic waste and digital 
-inequality.
-
-These issues raise questions about how technology companies should balance innovation and profit with their responsibilities towards scociety. 
-
-It's important to think about both the good and bad sides of these changes and consider how companies can make smartphone technology more responsible and sustainable.
+They have also raised ethical issues like privacy, well being, electronic waste and digital. 
+inequality. These problems bring up questions of the management of innovation and profit by technology companies and their obligations to society.It is Important to remember both the positive and negative aspects of these changes and to consider what measures and Improvements can be taken by companies to render smartphone technology more responsible and sustainable.
 
 ### Positive Impacts 
 
-Smartphones have opened up many new opportunities for businesses. 
+The smartphone has created numerous new opportunities for businesses.
+Companies can now sell products online, advertise using mobile applications and become more connected with consumers.
+Small businesses can use platforms such as Instagram, TikTok, and online shopping platforms to sell their products and reach customers overseas and this has emerged as a huge space for new businesses.
 
-Now, companies can sell products online, advertise with mobile apps, and connect with customers more easily.
+It wasn't so easy at the time when people used traditional mobile phones.The old mobile phones was only used for calls and text.The people are much easier to keep in touch with the help of smart phones. People can communicate with their family and friends even when they are in different countries, with texting in their apps, video calls and social media. New Smartphones are developed with touchscreen, AI , more camera quality  etc.
 
-For example, small businesses can use platforms like Instagram, TikTok, and online shopping sites to promote their products and reach customers in other countries , and this has become a huge platform for new entrepreneurs. 
+The smartphone has also led to the more opportunity of jobs in areas such as App development, Software development, Digital marketing, and Cybersecurity. Intense rivalry among companies such as Nokia, Apple and Samsung has given businesses to develop superior technology and provide new features.
 
-This was much harder when people mostly used traditional mobile phones.
-
-Smartphones have also created jobs in fields like app development, software engineering, digital marketing, and cybersecurity. Competition between companies like Nokia, Apple, and Samsung has encouraged businesses to make better technology and add new features.
-
-Also the development of Artificial Intelligence, Smartphones have developed from basic mobile phones used only for calls and text to a Smartphones which can use AI to make learning , entertainment , work easier 
+Also the development of Artificial Intelligence, Smartphones have developed from basic mobile phones used only for calls and text to a Smartphones which can use AI to make learning , entertainment , work easier.
 AI have made a huge improvement in Healthcare , Education , Communication etc .
 
+ One of the major advantages is information and education are readily available in websites or platforms which the schools have assigned . Also with the help of new technology and websites accesing to study material have become easier . Smart phones are not only more familiar in education, but also schools began to give them information about the activities held in the school by opening a Google Classroom. Students can search topics, view educational videos, find learning materials and communicate with teachers via their cell phones. 
 
-
-Smartphones make it much easier for people to keep in touch. With texting in  apps, video calls, and social media, people can talk to family and friends even if they live in other countries.
-
- Another big benefit is easy access to information and education. Smart phones have become more familiar in education also like schools started google classroom for giving them information about school events and their homework.Students can use their phones to look up topics, watch educational videos, find learning materials, and reach out to their teachers. 
-
-Smartphones also help with daily tasks like checking directions, managing money with banking apps, and finding healthcare information.
-
-Overall, smartphones make daily tasks faster and easier. 
-
-They also give people access to services that used to be harder to get.
+Smartphones can also assist with everyday activities, such as navigation for example Google Maps to track location or to track your bus ,  banking for example to transfer money one to each other and accessing health-related data for example in Apple Iphones they created an app just to track your health .
+ Smartphones make tasks easier and faster to complete on a daily basis. Also helping in every possible way in education and other. 
 
 ### Negative Impacts 
  
-Privacy and Personal Information
+##### Personal Information and Privacy.
 
-Modern smartphones gather personal details like your location, browsing history, and online activity. 
+Today smart phones collect personal information such as your location, browsing habits and internet usage and it can be stored.This data helps the company businesses enhance their offerings and deliver targeted advertising to the targeted audience. This data can be used to make the businesses services better, and to provide ads that are for you, but this can raise privacy concerns. For example sometimes Smartphones recognize the words we are saying and it suggest ads or reels on Instagram related to it. 
+It is important for companies to ensure that user information is kept secure  and safe. The user should clearly understood how it is used. The company should point out how important it is to protect user privacy.
 
-Companies use this information to improve their services and show you personalised ads, but this can lead to privacy concerns.
+##### Electronic waste to environmental impact
 
-Companies need to keep user information safe and clearly explain how they use it. Apple (n.d.) points out how important it is to protect user privacy.
+Smartphones contribute to e-waste as users tend to buy new devices when they are still in working. Phones use energy to manufacture and natural resources, which can damage the environment. 
+Businesses are being encouraged to encourage the recycling, repair and re-use of phones to reduce the environmental impact.
+The World Health Organization (2024) estimates that approximately 62 million tonnes of e-waste are generated globally each year in 2022.
 
-Environmental Impact and Electronic Waste
+##### Development of Artificial Intelligence 
 
-Smartphones add to electronic waste because people often get new phones even when their old ones still work. Making phones also uses up energy and natural resources, which can hurt the environment.
+Even though development of AI has been positive it also have negative impacts too. The main concern is the Job displacement, People fear that their jobs can be replaced by AI. For Example AI like Chatgpt could create a house plan which an architect could do. AI also raise concerns in Privacy, Misinformation and Malicious use.
 
-According to the World Health Organization (2024), around 62 million tonnes of electronic waste were produced worldwide in 2022.
-
-Companies should support recycling, repairs, and making phones that last longer to help reduce harm to the environment.
 
 ### Ethical evaluation
 
-The development of mobile phones from Nokia to modern smartphones has brought both positive and negative changes.
+Mobile phone technology have started from Nokia up to the modern Smartphone, has had its share of good and bad.
 
-Smartphones have helped businesses grow and improved communication, education and access to services. 
+Smartphones have helped in the expansion of businesses, enhanced access to services, education and communication also formation of Artificial Intelligence. But, they have also brought some issues like privacy concerns like users information are shared and stored,  excessive use of phones , and electronic waste.
 
-However, they have also created problems such as privacy concerns, electronic waste and excessive phone use.
-
-In my opinion, smartphones have had a positive impact on society overall, but companies should focus on protecting users and reducing environmental damage, not just making profits.
-
-The main challenge is making technology beneficial and accessible to everyone while reducing its negative effects.
+In my view point , the impact of smartphones on the society has been positive in general, but companies should take care of protecting their users information and minimize the damage to the environment more than anything else.
+Main challenge is to make technology good and accessible to all while minimizing its negative .
 
 ### Improvements 
 
-Smartphone companies should improve privacy by protecting personal information and giving users more control over their data.
+Smartphone manufacturers should enhance privacy through measures such as: safeguarding personal data and provide users with greater control over their personal information. Also user should be provided with information that says where all have been their data are saved. 
 
-Phones should also last longer, be easier to repair and have better recycling options to reduce electronic waste (European Commission, 2026).
+Phones should also have longer lifecycles, be more reparable and offer more recycling opportunities, which would decrease the amount of e-waste. (European Commission, 2026).
 
-Governments and businesses should make technology more affordable, while app developers should encourage healthier screen-time habits.
+Governments and companies should promote technology that's more affordable for everyone and encourage healthier screen time habits from the app makers.
+
 
 ### Conclusion
 
-The development from Nokia phones to Apple's iPhone has improved communication, business and access to information. 
+Nokia to the iPhone revolution has brought better communication, business and access to information.
 
-However, smartphones have also caused problems such as privacy concerns, electronic waste and excessive screen time.
+On the other hand, smartphones have brought issues like privacy concerns, e-waste and excessive screen time.
 
-In my opinion, smartphones have benefited society, but companies should focus on protecting users, making technology affordable and reducing environmental harm.
+I think that the smartphone has had a positive impact on society, but protecting users should be the priority of companies, making technology affordable and lessening the impact on the environment should be too.
+
+
 
 #### References 
 https://www.csis.org/analysis/replicating-mobile-revolution
@@ -96,3 +80,5 @@ https://www.csis.org/analysis/replicating-mobile-revolution
 https://www.esri.ie/system/files/publications/JA202009_0.pdf
 
 https://www.bbc.com/future/article/20230403-how-cellphones-have-changed-our-brains
+
+https://www.tableau.com/data-insights/ai/advantages-disadvantages
