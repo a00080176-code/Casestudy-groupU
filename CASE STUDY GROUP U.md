@@ -252,11 +252,11 @@ Phones should also last longer, be easier to repair and have better recycling op
 Governments and businesses should make technology more affordable, while app developers should encourage healthier screen-time habits.
 
 
-To conclude , the development from Nokia phones to Apple's iPhone has improved communication, business and access to information. 
+Nokia to the iPhone revolution has brought better communication, business and access to information.
 
-However, smartphones have also caused problems such as privacy concerns, electronic waste and excessive screen time.
+On the other hand, smartphones have brought issues like privacy concerns, e-waste and excessive screen time.
 
-In my opinion, smartphones have benefited society, but companies should focus on protecting users, making technology affordable and
+I think that the smartphone has had a positive impact on society, but protecting users should be the priority of companies, making technology affordable and lessening the impact on the environment should be too.
 
 # Conclusion – Synthesis and Broader Implications
 
