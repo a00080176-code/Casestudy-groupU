@@ -2,8 +2,7 @@
 
 ## Introduction of the analysis:
 
-The evolution from Nokia mobile phones to modern smartphones like the iPhone has changed the mobile phone industry. In the early 2000s, Nokia was one of the leading mobile phone companies, selling devices for different prices and customer needs. However, when Apple introduced the iPhone in 2007, the market started to change. From a business viewpoint, this evolution shows the importance of innovation, marketing, competition and understanding customer needs.
-
+The change from Nokia phones to smartphones like the iPhone has transformed the mobile phone industry. In the early 2000s Nokia was one of the leading phone companies, selling devices for different prices and customer needs. But when Apple introduced the iPhone in 2007, the market began to change. From a business point of view, this shows how important innovation, marketing, competition and understanding customers are.
 ### 1º POINT: Competition and Market Share 
 
 Before the iPhone was introduced, Nokia was a major player in the mobile phone market. Its success came from offering reliable phones, a wide range of models and products for different budgets. According to research published in Business History, Nokia had become a global leader in mobile phones, but its position weakened as the smartphone market developed.
@@ -22,9 +21,7 @@ This comparison shows that having a successful business in the past does not gua
 
 ### 3º POINT: Marketing and Customer Behaviour
 
-Marketing also played an important role in the competition between Nokia and Apple. Nokia offered many different models, allowing customers to choose phones based on their budget and needs. Apple initially positioned the iPhone as a premium product, focusing on its design, touchscreen and overall user experience.
-
-Apple's strategy helped create a strong brand identity. Customers were not only buying a phone; they were also buying into Apple's wider range of products and services. This could encourage customer loyalty and make people more likely to purchase another Apple device in the future.
+Marketing was also important in the competition between Nokia and Apple. Nokia sold many different models, so customers could choose a phone that matched their budget and needs. Apple first presented the iPhone as a premium product and focused on its design, touchscreen and user experience. This helped Apple build a strong brand identity. Customers were not just buying a phone, they were joining Apple's wider world of products and services, which could make them loyal and more likely to buy another Apple device later.
 
 ### 4º POINT: Revenue and Business Growth:
 

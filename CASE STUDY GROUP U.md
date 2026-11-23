@@ -72,11 +72,7 @@ Looking at both society and business shows how the phone has become much more th
 
 ### Introduction of the Analysis:
 
-The evolution from traditional Nokia mobile phones to modern smartphones , such as the Iphone, 
-demonstrates how mathematics has contributed to technologcal development. Older phones were mainly
-used for calls and text messages, while modern smartphones combine communication , photography, 
-internet access and computing. This evolution can be analysed through exponential growth, binary numbers,
-algorithms, geometry and optimisation.
+Looking at the change from traditional Nokia phones to modern smartphones such as the iPhone shows how much mathematics has helped technology develop. Older phones were mainly used for calls and text messages, whereas smartphones combine communication, photography, internet access and computing in one device. This change can be explained through exponential growth, binary numbers, algorithms, geometry and optimisation.
 
 #### 1º POINT: Exponential and Computing Growth
 
@@ -135,7 +131,7 @@ In conclusion, the development from Nokia phones to modern iPhones shows how mat
 
 ### Introduction of the analysis:
 
-The evolution from Nokia mobile phones to modern smartphones like the iPhone has changed the mobile phone industry. In the early 2000s, Nokia was one of the leading mobile phone companies, selling devices for different prices and customer needs. However, when Apple introduced the iPhone in 2007, the market started to change. From a business viewpoint, this evolution shows the importance of innovation, marketing, competition and understanding customer needs.
+The change from Nokia phones to smartphones like the iPhone has transformed the mobile phone industry. In the early 2000s Nokia was one of the leading phone companies, selling devices for different prices and customer needs. But when Apple introduced the iPhone in 2007, the market began to change. From a business point of view, this shows how important innovation, marketing, competition and understanding customers are.
 
 #### 1º POINT: Competition and Market Share 
 

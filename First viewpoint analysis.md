@@ -2,11 +2,7 @@
 
 ## Introduction of the Analysis:
 
-The evolution from traditional Nokia mobile phones to modern smartphones , such as the Iphone, 
-demonstrates how mathematics has contributed to technologcal development. Older phones were mainly
-used for calls and text messages, while modern smartphones combine communication , photography, 
-internet access and computing. This evolution can be analysed through exponential growth, binary numbers,
-algorithms, geometry and optimisation.
+Looking at the change from traditional Nokia phones to modern smartphones such as the iPhone shows how much mathematics has helped technology develop. Older phones were mainly used for calls and text messages, whereas smartphones combine communication, photography, internet access and computing in one device. This change can be explained through exponential growth, binary numbers, algorithms, geometry and optimisation.
 
 ### 1º POINT: Exponential and Computing Growth
 
@@ -19,7 +15,7 @@ The mathematical model is:
 
 Here, (P_0) is the starting amount, (t) is the time passed and (T) is the doubling period.
 
-If the amount doubles every two years, after ten years the calculation would be:
+If the amount doubles every two years, after ten years the calculation would be: 
 
 (P(10)=P_0\times2^5=32P_0)
 
