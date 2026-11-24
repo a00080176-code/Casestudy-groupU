@@ -12,7 +12,7 @@ inequality.It is Important to remember both the positive and negative aspects of
 ### Positive Impacts 
 
 The smartphone has created numerous new opportunities for businesses.
-Companies can now sell products online, advertise using mobile applications and become more connected with consumers.
+Companies can now sell products online and advertise using mobile applications. 
 Small businesses can use platforms such as Instagram, TikTok, and online shopping platforms to sell their products and reach customers overseas and this has emerged as a huge space for new businesses.
 
 It wasn't so easy at the time when people used traditional mobile phones.The old mobile phones was only used for calls and text.The people are much easier to keep in touch with the help of smart phones. People can communicate with their family and friends even when they are in different countries, with texting in their apps, video calls and social media. New Smartphones are developed with touchscreen, AI , more camera quality  etc.
@@ -59,7 +59,7 @@ Smartphone manufacturers should enhance privacy through measures such as: safegu
 
 Phones should also have longer lifecycles, be more reparable and offer more recycling opportunities, which would decrease the amount of e-waste. (European Commission, 2026).
 
-Governments and companies should promote technology that's more affordable for everyone and encourage healthier screen time habits from the app makers.
+Governments and companies should promote technology that's more affordable and more safer  for user's  and encourage healthier screen time habits from the app makers.
 
 
 
