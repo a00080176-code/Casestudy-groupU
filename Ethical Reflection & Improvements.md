@@ -20,7 +20,7 @@ It wasn't so easy at the time when people used traditional mobile phones.The old
 Also the development of Artificial Intelligence, Smartphones have developed from basic mobile phones used only for calls and text to a Smartphones which can use AI to make learning , entertainment , work easier.
 AI have made a huge improvement in Healthcare , Education , Communication etc .
 
- One of the major advantages is information and education are  available in websites or platforms which the schools have assigned. Smart phones are not only more familiar in education, but also schools began to give them information about the activities held in the school by opening apps like  Google Classroom. Students can search topics, view educational videos, find learning materials and communicate with teachers via their cell phones. 
+ One of the major advantages is information and education are  available in websites which the schools have assigned. Smart phones are not only more familiar in education, but also schools began to give them information about the activities held in the school by opening apps like  Google Classroom. Students can search topics, view educational videos, find learning materials and communicate with teachers via their cell phones. 
 
 Smartphones can also assist with everyday activities, such as navigation for example Google Maps to track location or to track your bus ,  banking for example to transfer money one to each other and accessing health-related data for example in Apple Iphones they created an app just to track your health .
 
