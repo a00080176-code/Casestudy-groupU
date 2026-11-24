@@ -2,9 +2,7 @@
 
 ## Introduction 
 
-The Evolution of mobile phones from Nokia to modern smartphones such as Apples's iphone has brought many positive and negative changes to businesses and society. 
-
-The Evolution of the mobile phone from Nokia to present-day smart phones like Apples's iphone, there have been plenty of positive and negative changes in the World. Staying up to date on the history of phones kept in your pocket isn't easy because the evolution of the devices occurs quickly. Many of us can't begin to imagine life without our smartphones nowadays. One start their day looking at their phone or by Alarm setting up on their phone. 
+The Evolution of mobile phones from Nokia to modern smartphones such as Apples's iphone has brought many positive and negative changes to businesses and society. Staying up to date on the history of phones kept in your pocket isn't easy because the evolution of the devices occurs quickly. Many of us can't begin to imagine life without our smartphones nowadays. One start their day looking at their phone or by Alarm setting up on their phone. 
 
 They have also raised ethical issues like privacy, well being, electronic waste and digital. 
 inequality.It is Important to remember both the positive and negative aspects of these changes and to consider what measures and Improvements can be taken by companies to render smartphone technology more responsible and sustainable.
