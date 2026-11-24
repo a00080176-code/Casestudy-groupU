@@ -62,14 +62,6 @@ Phones should also have longer lifecycles, be more reparable and offer more recy
 Governments and companies should promote technology that's more affordable for everyone and encourage healthier screen time habits from the app makers.
 
 
-### Conclusion
-
-Nokia to the iPhone revolution has brought better communication, business and access to information.
-
-On the other hand, smartphones have brought issues like privacy concerns, e-waste and excessive screen time.
-
-I think that the smartphone has had a positive impact on society, but protecting users should be the priority of companies, making technology affordable and lessening the impact on the environment should be too.
-
 
 
 #### References 
