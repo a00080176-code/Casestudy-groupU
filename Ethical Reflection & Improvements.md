@@ -5,7 +5,6 @@
 The Evolution of mobile phones from Nokia to modern smartphones such as Apples's iphone has brought many positive and negative changes to businesses and society. 
 
 The Evolution of the mobile phone from Nokia to present-day smart phones like Apples's iphone, there have been plenty of positive and negative changes in the World. Staying up to date on the history of phones kept in your pocket isn't easy because the evolution of the devices occurs quickly. Many of us can't begin to imagine life without our smartphones nowadays. One start their day looking at their phone or by Alarm setting up on their phone. 
-Smartphones have made communication easier for the society and provided new business opportunities. Smartphones have made everyday life easier. 
 
 They have also raised ethical issues like privacy, well being, electronic waste and digital. 
 inequality. These problems bring up questions of the management of innovation and profit by technology companies and their obligations to society.It is Important to remember both the positive and negative aspects of these changes and to consider what measures and Improvements can be taken by companies to render smartphone technology more responsible and sustainable.
@@ -18,15 +17,14 @@ Small businesses can use platforms such as Instagram, TikTok, and online shoppin
 
 It wasn't so easy at the time when people used traditional mobile phones.The old mobile phones was only used for calls and text.The people are much easier to keep in touch with the help of smart phones. People can communicate with their family and friends even when they are in different countries, with texting in their apps, video calls and social media. New Smartphones are developed with touchscreen, AI , more camera quality  etc.
 
-The smartphone has also led to the more opportunity of jobs in areas such as App development, Software development, Digital marketing, and Cybersecurity. Intense rivalry among companies such as Nokia, Apple and Samsung has given businesses to develop superior technology and provide new features.
-
 Also the development of Artificial Intelligence, Smartphones have developed from basic mobile phones used only for calls and text to a Smartphones which can use AI to make learning , entertainment , work easier.
 AI have made a huge improvement in Healthcare , Education , Communication etc .
 
- One of the major advantages is information and education are readily available in websites or platforms which the schools have assigned . Also with the help of new technology and websites accesing to study material have become easier . Smart phones are not only more familiar in education, but also schools began to give them information about the activities held in the school by opening a Google Classroom. Students can search topics, view educational videos, find learning materials and communicate with teachers via their cell phones. 
+ One of the major advantages is information and education are  available in websites or platforms which the schools have assigned. Smart phones are not only more familiar in education, but also schools began to give them information about the activities held in the school by opening apps like  Google Classroom. Students can search topics, view educational videos, find learning materials and communicate with teachers via their cell phones. 
 
 Smartphones can also assist with everyday activities, such as navigation for example Google Maps to track location or to track your bus ,  banking for example to transfer money one to each other and accessing health-related data for example in Apple Iphones they created an app just to track your health .
- Smartphones make tasks easier and faster to complete on a daily basis. Also helping in every possible way in education and other. 
+
+
 
 ### Negative Impacts 
  
