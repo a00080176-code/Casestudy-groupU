@@ -30,7 +30,7 @@ Smartphones can also assist with everyday activities, such as navigation for exa
  
 ##### Personal Information and Privacy.
 
-Today smart phones collect personal information such as your location, browsing habits and internet usage and it can be stored.This data helps the company businesses enhance their offerings and deliver targeted advertising to the targeted audience. This data can be used to make the businesses services better, and to provide ads that are for you, but this can raise privacy concerns. For example sometimes Smartphones recognize the words we are saying and it suggest ads or reels on Instagram related to it. 
+Today smart phones collect personal information such as your location, browsing habits and internet usage and it can be stored.This data helps the company businesses enhance their offerings and deliver targeted advertising to the targeted audience.For example sometimes Smartphones recognize the words we are saying and it suggest ads or reels on Instagram related to it. 
 It is important for companies to ensure that user information is kept secure  and safe. The user should clearly understood how it is used. The company should point out how important it is to protect user privacy.
 
 ##### Electronic waste to environmental impact
