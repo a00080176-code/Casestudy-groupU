@@ -2,36 +2,38 @@
 
 ## Introduction of the analysis:
 
-The change from Nokia phones to smartphones like the iPhone has transformed the mobile phone industry. In the early 2000s Nokia was one of the leading phone companies, selling devices for different prices and customer needs. But when Apple introduced the iPhone in 2007, the market began to change. From a business point of view, this shows how important innovation, marketing, competition and understanding customers are.
+The change from Nokia to smartphones like Iphone has changed a lot the mobile phone industry. In the early 2000s Nokia was the one that was leading the phone companies , selling their devices at different prices and costumers needs. But when Apple introduced to the market Iphone in 2007 , the market changed drastically. From a business point of view, this shows how important innovation , marketing , competition and understanding customers are.
 ### 1º POINT: Competition and Market Share 
 
-Before the iPhone was introduced, Nokia was a major player in the mobile phone market. Its success came from offering reliable phones, a wide range of models and products for different budgets. According to research published in Business History, Nokia had become a global leader in mobile phones, but its position weakened as the smartphone market developed.
+Before Iphone was introduced in the market , Nokia was the one that a major dominance in the mobile phone market. Its success came from offering good and reliable phones, a bigger range of models and products for different prices and budgets. According to researches that was published in the Business History , Nokia became the number one globally in mobile phones, but its position decreased as the smartphone market developed.
 
-Apple entered the market with a different approach. Instead of focusing mainly on traditional phone features, it combined a phone, music player and internet device into one product. Apple also introduced a touchscreen interface that changed how people interacted with their phones (Apple, 2007).
+Apple caused a big change in the mobile phone market. Instead of focusing mainly on tradition mobile phones features , it combined a mobile phone , music player and a internet device into one product. Apple also introduced as an innovation the touchscreen interface. That changed the perspective of how people interacted with their phones.
 
-This increased competition because customers began expecting more from their devices. Nokia had to compete not only on price and reliability but also on software and user experience. This shows that businesses must adapt when competitors introduce products that change customer expectations.
+This increased the competition in the mobile phone market because customers began expecting more from their devices. Nokia had to compete not only with the price of the market and responsibility but also on the software and user experience part. This demonstrates that business must adapt when competitors introduce products that change costumers expectations.
+
 
 ### 2º POINT: Innovation and Business Strategy
 
-Innovation was an important factor in Apple's success. The company focused on making the iPhone easy to use and connecting its hardware with software and services. The App Store and other services helped make the iPhone more useful over time, giving customers additional reasons to remain with Apple.
+Upgrades was an important factor in Apple’s success. The company focused on making the Iphone easy to use and connecting its hardware with software and services. The App Store and othe services helped make the Iphone to be more useful as time passed , giving customers more reasons to remain with the company of Apple.
 
-Nokia also developed smartphones, such as the N95, but it struggled to compete with the changing smartphone market. Research by Vuori and Huy (2016) examines how Nokia lost its leading position and explains the importance of management decisions and organisational challenges during this period.
+Nokia also developed smartphones , like for example the N95 , but it struggled to compete with the changing of smartphones market. Research made by Vuori and Huy (2016) examines how Nokia lost its number one position in the market and explains the importance of management decisions and organisational problems during this period.
 
-This comparison shows that having a successful business in the past does not guarantee future success. Companies need to recognise changes in technology and customer preferences and respond effectively.
+This competition proves that having a successful business in the pass does not assure success in the future. Companies needs to know and recognise changes in technology and customer preferences as time passes and respond effectively.
 
 ### 3º POINT: Marketing and Customer Behaviour
 
-Marketing was also important in the competition between Nokia and Apple. Nokia sold many different models, so customers could choose a phone that matched their budget and needs. Apple first presented the iPhone as a premium product and focused on its design, touchscreen and user experience. This helped Apple build a strong brand identity. Customers were not just buying a phone, they were joining Apple's wider world of products and services, which could make them loyal and more likely to buy another Apple device later.
+Marketing was also an important factor in the competition between Nokia and Apple. Nokia sold many different models in the past , so customers could choose a phone that actually matched their preferences and budget. Apple first presented the Iphone as a luxury product and focused on its design, touchscreen and user experience. This helped Apple build a strong brand identity for the future. Customers were not just buying a phone as usual , they were joining Apple’s wider world of products ,devices and services , which could make them later loyal and more likely buy another Apple device.
 
 ### 4º POINT: Revenue and Business Growth:
 
-The smartphone industry also changed how companies earned money. Traditional mobile phone businesses mainly depended on selling devices. Smartphones created further opportunities through applications, digital services and online platforms.
+The smartphone industry also changed how companies earned their money. Old traditional mobile phone business mainly depended on selling their devices. Smartphones created more opportunities through the creation of applications , digital services and online platforms.
 
-Apple's business model allowed it to connect the iPhone with services such as the App Store, creating additional ways to generate revenue beyond selling hardware.
+Apple business model allowed it to connect to Iphone with services like the App Store, creating additional ways to make more benefit beyond just selling hardware.
+
 
 ### CONCLUSION:
 
-In conclusion, the evolution from Nokia phones to the iPhone shows how competition, innovation, marketing and business strategy influence success. Nokia was highly successful, but changes in the smartphone market created new challenges. Apple took advantage of these changes by combining technology, design, software and services into one connected experience.
+To conclude , the growth from Nokia mobile phones to the Iphone , clearly explains how competition  , innovation , marketing and business strategy in a company influence success in the market. For example , Nokia was highly successful in the past , but changes in the smartphone market created new challenges and there is where we see Apple step up , taking advantage of these changes by combining technology , design , software and services into one device , increasing highly the user experience.
 
 #### SOURCES:
 
